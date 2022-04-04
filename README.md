@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mankarsaakshi
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Data analytics and machine learning 
 - 🌱 I’m currently pursuing Btech Computer science from D.Y.Patil International University
 - 💞️ I’m looking for a internship and job in data analytics field.
 - 📫 Mail id- saakshimankar@gmail.com
