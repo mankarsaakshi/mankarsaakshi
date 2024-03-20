@@ -5,7 +5,6 @@
 Hi, I'm Saakshi! I have a technical background and hold a Bachelors (BTech) degree in Computer Science from D.Y.Patil International University, with a major in Machine Learning. I have been working as a Data Analyst at the Sceniuz-IT division of Mahapatra since September 2023.     
 
 My CV in [pdf]
-
 <br>
 This repository functions as a platform to display my skills, share my projects, and track my progress in Data Analytics and Data Science-related areas.
 <br>
