@@ -23,6 +23,11 @@ This repository functions as a platform to display my skills, share my projects,
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Products Sales Analysis
+**Code:** [`Ecommerce_Dashboard.pbix`](https://github.com/mankarsaakshi/Ecommerce_Dashboard/blob/main/Ecommerce%20Dashboard.pbix)    
+**Description:** Ecommerce has revolutionized modern business by enabling online transactions. With the digital marketplace growing rapidly, vast amounts of data are generated. Ecommerce data analysis involves extracting insights from this data to enhance strategies and foster business growth. Tools like Power BI facilitate this process, offering powerful visualization and analysis capabilities to derive actionable insights from ecommerce data. 
+**Skills:** data cleaning, data analysis, data visualization.  
+**Technology:** Power BI, Power Query.  
+**Results:** data-based business sales recommendations. 
 
 
 ## Contacts
