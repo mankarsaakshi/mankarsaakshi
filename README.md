@@ -16,6 +16,7 @@ This repository functions as a platform to display my skills, share my projects,
 	+ [Sales Data Analysis](#sales-Data-analysis)
 	+ [Splendor Hotel Groups (SHG) Booking Data Analysis](#SHG-Booking-data-analysis)
 	+ [Ecommerce Data Analysis](#Ecommerce-Data-analysis)
+- [Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing] (#Sentiment-Analysis-Discharge-Summary)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -41,6 +42,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, data visualization.  
 **Technology:** Power BI, Power Query.  
 **Results:** data-based business recommendations. 
+
+#### Sentiment-Analysis-Discharge-Summary
+**Code:** [`Sentiment_Analysis.ipynb`](https://github.com/mankarsaakshi/Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing-)
+**Description:**The project "Sentiment Analysis and Text Classification on Medical Data using Natural Language Processing" focuses on developing a system that can automatically analyze the sentiment or emotion expressed in unstructured textual data, of medical discharge summary.
+**Skills:** Python,Data Science, Machine Learning 
+**Technology:** Google Colab
+**Results:** Understanding of sentiment, enabling focused applications in medical area
 
 ### Certificates
 **Code:** [`Sales_Data_Analysis_Dashboard.pbix`]
