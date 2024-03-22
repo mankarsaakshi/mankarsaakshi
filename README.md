@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI, Power Query.  
 **Results:** data-based business recommendations. 
 
-#### Sentiment-Analysis-Discharge-Summary
+#### Sentiment Analysis Discharge Summary
 **Code:** [`Sentiment_Analysis.ipynb`](https://github.com/mankarsaakshi/Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing-)
 **Description:**The project "Sentiment Analysis and Text Classification on Medical Data using Natural Language Processing" focuses on developing a system that can automatically analyze the sentiment or emotion expressed in unstructured textual data, of medical discharge summary.
 **Skills:** Python,Data Science, Machine Learning 
