@@ -22,13 +22,25 @@ This repository functions as a platform to display my skills, share my projects,
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Products Sales Analysis
+
+### Sales Data Analysis
+**Code:** [`Sales_Data_Analysis_Dashboard.pbix`](https://github.com/mankarsaakshi/Sales_Analytics/blob/main/Sales_Analytics%20Dashboard.pbix)    
+**Description:** The Sales analysis data provides crucial insights into the performance of a company's sales activities, offering a comprehensive view of revenue generation, customer trends, and market dynamics. By examining this data, businesses can make informed decisions to optimize sales strategies, improve profitability, and drive growth.
+**Results:** data-based sales recommendations. 
+
+### SHG Hotel Booking Data Analysis
+**Code:** [`SHG_Hotel.pbix`](https://github.com/mankarsaakshi/SHG-Hotel-Booking/blob/main/SHG%20Hotel%20Dashboard.pbix)    
+**Description:** The Ecommerce dataset is in CSV format with 119,391 rows. It includes information such as Booking ID, Hotel, Booking Date, Arrival Date, Lead Time, Nights, Guests, Distribution Channel, Customer Type, Country, Deposit Type, Avg Daily Rate, Status, Status Update, Cancelled (0/1), Revenue, and Revenue Loss.
+**Skills:** data cleaning, data analysis, data visualization. It can be used for various analyses, including forecasting bookings, understanding booking patterns, and optimizing revenue management strategies.
+**Technology:** Power BI, Power Query.  
+**Results:** data-based Hotel business understanding and recommendations. 
+
+### Ecommerce Data Analysis
 **Code:** [`Ecommerce_Dashboard.pbix`](https://github.com/mankarsaakshi/Ecommerce_Dashboard/blob/main/Ecommerce%20Dashboard.pbix)    
-**Description:** Ecommerce has revolutionized modern business by enabling online transactions. With the digital marketplace growing rapidly, vast amounts of data are generated. Ecommerce data analysis involves extracting insights from this data to enhance strategies and foster business growth. Tools like Power BI facilitate this process, offering powerful visualization and analysis capabilities to derive actionable insights from ecommerce data. 
+**Description:** Ecommerce has revolutionized modern business by enabling online transactions. With the digital marketplace growing rapidly, vast amounts of data are generated. Ecommerce data analysis involves extracting insights from this data to enhance strategies and foster business growth. Tools like Power BI facilitate this process, offering powerful visualization and analysis capabilities to derive actionable insights from ecommerce data.
 **Skills:** data cleaning, data analysis, data visualization.  
 **Technology:** Power BI, Power Query.  
-**Results:** data-based business sales recommendations. 
-
+**Results:** data-based business recommendations. 
 
 ## Contacts
 - LinkedIn: [@Profile](https://www.linkedin.com/in/saakshi-mankar-963845214/)
