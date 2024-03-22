@@ -16,7 +16,7 @@ This repository functions as a platform to display my skills, share my projects,
 	+ [Sales Data Analysis](#sales-Data-analysis)
 	+ [Splendor Hotel Groups (SHG) Booking Data Analysis](#SHG-Booking-data-analysis)
 	+ [Ecommerce Data Analysis](#Ecommerce-Data-analysis)
-- [Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing] (#Sentiment-Analysis-Discharge-Summary)
+- [Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing](#Sentiment-Analysis-Discharge-Summary)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
