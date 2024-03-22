@@ -27,13 +27,14 @@ In this section I will list data analytics projects briefly describing the techn
 ### Sales Data Analysis
 **Code:** [`Sales_Data_Analysis_Dashboard.pbix`](https://github.com/mankarsaakshi/Sales_Analytics/blob/main/Sales_Analytics%20Dashboard.pbix)    
 **Description:** The Sales analysis data provides crucial insights into the performance of a company's sales activities, offering a comprehensive view of revenue generation, customer trends, and market dynamics. By examining this data, businesses can make informed decisions to optimize sales strategies, improve profitability, and drive growth.
+**Skills:** data cleaning, data modelling, data analysis, data visualization. 
 **Technology:** Power BI, Power Query. 
 **Results:** data-based sales recommendations. 
 
 ### SHG Booking Data Analysis
 **Code:** [`SHG_Hotel.pbix`](https://github.com/mankarsaakshi/SHG-Hotel-Booking/blob/main/SHG%20Hotel%20Dashboard.pbix)    
 **Description:** The Ecommerce dataset is in CSV format with 119,391 rows. It includes information such as Booking ID, Hotel, Booking Date, Arrival Date, Lead Time, Nights, Guests, Distribution Channel, Customer Type, Country, Deposit Type, Avg Daily Rate, Status, Status Update, Cancelled (0/1), Revenue, and Revenue Loss.
-**Skills:** data cleaning, data analysis, data visualization. It can be used for various analyses, including forecasting bookings, understanding booking patterns, and optimizing revenue management strategies.
+**Skills:** data cleaning, data analysis, data visualization. 
 **Technology:** Power BI, Power Query.  
 **Results:** data-based Hotel business understanding and recommendations. 
 
