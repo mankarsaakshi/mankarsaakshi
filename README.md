@@ -42,6 +42,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI, Power Query.  
 **Results:** data-based business recommendations. 
 
+### Certificates
+**Code:** [`Sales_Data_Analysis_Dashboard.pbix`]
+
 ## Contacts
 - LinkedIn: [@Profile](https://www.linkedin.com/in/saakshi-mankar-963845214/)
 - E-mail: saakshimankar@gmail.com
