@@ -27,6 +27,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Sales Data Analysis
 **Code:** [`Sales_Data_Analysis_Dashboard.pbix`](https://github.com/mankarsaakshi/Sales_Analytics/blob/main/Sales_Analytics%20Dashboard.pbix)    
 **Description:** The Sales analysis data provides crucial insights into the performance of a company's sales activities, offering a comprehensive view of revenue generation, customer trends, and market dynamics. By examining this data, businesses can make informed decisions to optimize sales strategies, improve profitability, and drive growth.
+**Technology:** Power BI, Power Query. 
 **Results:** data-based sales recommendations. 
 
 ### SHG Booking Data Analysis
@@ -46,7 +47,6 @@ In this section I will list data analytics projects briefly describing the techn
 #### Sentiment Analysis Discharge Summary
 **Code:** [`Sentiment_Analysis.ipynb`](https://github.com/mankarsaakshi/Sentiment-Analysis-and-Text-Classification-on-Medical-Data-using-Natural-Language-Processing-)
 **Description:**The project "Sentiment Analysis and Text Classification on Medical Data using Natural Language Processing" focuses on developing a system that can automatically analyze the sentiment or emotion expressed in unstructured textual data, of medical discharge summary.
-
 **Skills:** Python,Data Science, Machine Learning.
 **Technology:** Google Colab.
 **Results:** Understanding of sentiment, enabling focused applications in medical area.
